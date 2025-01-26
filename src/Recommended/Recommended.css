@@ -1,0 +1,22 @@
+.recommended {
+  display: flex;
+  margin-left: 20rem;
+}
+
+.recommendedTitle {
+  margin-left: 20rem;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
+.btns {
+  padding: 10px 20px;
+  margin-right: 6px;
+  background: transparent;
+  border: none;
+  border: 0.6px solid rgb(50, 50, 50);
+  border-radius: 5px;
+  color: gray;
+  cursor: pointer;
+}
